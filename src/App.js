@@ -34,8 +34,21 @@ class Sidebar extends Component{
     }
 }
 
-class Content extends Component{
+class Table extends Component{
     render(){
+        return(
+            <tr>
+                <td aria-label="img"><img src={logo} /></td>
+                <td aria-label="type">Distribution</td>
+                <td aria-label="date">10 March 2017</td>
+                <td aria-label="value">$45</td>
+            </tr>
+        );
+    }
+}
+
+class Content extends Component{
+    render(){git
         return(
             <div className="content">
                 <div className="body_content">
@@ -56,12 +69,8 @@ class Content extends Component{
                         </tr>
                         </thead>
                         <tbody>
-                        <tr>
-                            <td aria-label="img"><img src={logo} /></td>
-                            <td aria-label="type">Distribution</td>
-                            <td aria-label="date">10 March 2017</td>
-                            <td aria-label="value">$45</td>
-                        </tr>
+
+                        <Table />
                         <tr>
                             <td aria-label="img"><img src={logo} /></td>
                             <td aria-label="type">Distribution</td>
