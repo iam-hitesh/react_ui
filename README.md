@@ -4,6 +4,9 @@ CSS Module
 CI/CD to deploy
 No CSS library is used.
 
+
+![alt text](https://github.com/ihiteish/react_ui/raw/master/Screen%20Shot%202018-03-31%20at%2011.41.53%20PM.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
