@@ -1,9 +1,4 @@
 ### Tech Stuff
-React.js
-CSS Module
-CI/CD to deploy
-No CSS library is used.
-
 
 ![alt text](https://github.com/ihiteish/react_ui/raw/master/Screen%20Shot%202018-03-31%20at%2011.41.53%20PM.png)
 
